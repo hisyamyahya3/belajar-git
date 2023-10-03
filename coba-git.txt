@@ -1,3 +1,3 @@
 pertama pake git
 
-ini commit dari surya
+resolve conflict commit dari hisyam & surya
